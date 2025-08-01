@@ -1,0 +1,17 @@
+.skillsDiv {
+    display: flex;
+    justify-content: left;
+}
+
+.techSkillsDiv, .profSkillsDiv {
+    width: 50%;
+    padding: 0em 3em;
+}
+
+.techSkillsDiv {
+    background-color:#FAFF7F;
+} 
+
+.profSkillsDiv {
+    background-color:#91A6FF;
+}

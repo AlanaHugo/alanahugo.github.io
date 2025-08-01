@@ -1,0 +1,10 @@
+.SummaryDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 0 3em;
+    background-color: #FF88DC;
+    color: black;
+
+}

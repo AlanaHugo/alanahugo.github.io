@@ -1,0 +1,19 @@
+.projectContact {
+    display: flex;
+}
+
+.projects, .contact {
+    display: flex;
+    flex-direction: column;
+    background-color: #FF5154;
+    width: 75%;
+    padding: 0em 3em;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    background-color: #FF88DC;
+    width: 25%;
+    padding: 0em 3em;
+}

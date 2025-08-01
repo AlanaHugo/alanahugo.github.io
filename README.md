@@ -1,2 +1,0 @@
-# alanahugo.github.io
-Portfolio

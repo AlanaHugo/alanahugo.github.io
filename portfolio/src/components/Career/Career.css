@@ -1,0 +1,26 @@
+.career {
+    display:flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+    padding: 0em 3em;
+}
+
+.careerHdr {
+    width: 100%;
+}
+
+.experienceCol1 {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.experienceCol2 {
+    width: 50%;
+    padding: 0em 3em;
+}
+
+.careerContent {
+    display: flex;
+    flex-direction: row;
+}
